@@ -1,0 +1,392 @@
+# Copyright (C) 2018 TwitterCart
+# This file is distributed under the same license as the TwitterCart package.
+msgid ""
+msgstr ""
+"Project-Id-Version: TwitterCart 2.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/twittercart\n"
+"POT-Creation-Date: 2018-04-08 14:05:45+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Post product to Twitter"
+msgstr "Publicar producto en Twitter"
+
+msgid "tweets"
+msgstr "tweets"
+
+msgid "following"
+msgstr "siguiendo"
+
+msgid "followers"
+msgstr "seguidores"
+
+msgid "TwitterCart Settings"
+msgstr "Configuración de TwitterCart"
+
+msgid "Support"
+msgstr "Apoyo"
+
+msgid "For support, please go to Wordpress and submit a support request (link to follow once we finalize the plugin registration)."
+msgstr "Para obtener soporte, vaya a Wordpress y envíe una solicitud de soporte (enlace a seguir una vez que finalice el registro del complemento)."
+
+msgid "For WordPress users on the GPL (Free) version of TwitterCart, please go to WordPress and"
+msgstr "Para usuarios de WordPress en la versión GPL (gratuita) de TwitterCart, ve a WordPress y"
+
+msgid "Submit a Support Request."
+msgstr "Presentar una solicitud de soporte."
+
+msgid "Twitter API"
+msgstr "API de Twitter"
+
+msgid "Twitter API key"
+msgstr "Clave de la API de Twitter"
+
+msgid "Twitter API secret"
+msgstr "Twitter API secreto"
+
+msgid "Access token"
+msgstr "Token de acceso"
+
+msgid "Access token secret"
+msgstr "Acceso token secreto"
+
+msgid "Save"
+msgstr "Salvar"
+
+msgid "TwitterCart #HashTags"
+msgstr "TwitterCart #HashTags"
+
+msgid "#AddToCart hashtag"
+msgstr "#AddToCart hashtag"
+
+msgid "#AddToWishlist hashtag"
+msgstr "#AddToWishlist hashtag"
+
+msgid "How I obtain Twitter App API details?"
+msgstr "¿Cómo obtengo los detalles de la API de la aplicación de Twitter?"
+
+msgid "<span>1</span>Go to the <a href="https://apps.twitter.com/">Apps page</a> on Twitter and click &quot;Create New App&quot;."
+msgstr "<span>1</span> Vaya a la <a href="https://apps.twitter.com/"> página de aplicaciones </a> en Twitter y haga clic en &quot;Crear nueva aplicación&quot;."
+
+msgid "<span>2</span>Set required info about your application and save."
+msgstr "<span>2</span> Establece la información requerida sobre tu aplicación y la guarda."
+
+msgid "<span>3</span>Go to &quot;Keys and Access Tokens&quot; tab and copy API key and API secret."
+msgstr "<span>3</span> Ir a &quot;Teclas y tokens de acceso&quot; tab y copia la clave de la API y el secreto de la API."
+
+msgid "<span>4</span>Click &quot;Create my access token&quot; and copy genearted token and token secret."
+msgstr "<span>4</span> Haz clic en &quot;Crear mi token de acceso&quot; y copia el token genérico y token secreto."
+
+msgid "What can I include in hashtags fields?"
+msgstr "¿Qué puedo incluir en los campos de hashtags?"
+
+msgid "The Hashtag can contain any characters and/ or numerical digits, but max length must not exceed 140 characters."
+msgstr "El Hashtag puede contener cualquier carácter y / o dígitos numéricos, pero la longitud máxima no debe exceder los 140 caracteres."
+
+msgid "TwitterCart Support"
+msgstr "Soporte de TwitterCart"
+
+msgid "Latest Update"
+msgstr "Última actualización"
+
+msgid "Added:"
+msgstr "Adicional:"
+
+msgid "Added new security patches for ajax."
+msgstr "Se agregaron nuevos parches de seguridad para ajax."
+
+msgid "Update history"
+msgstr "Historial de actualizaciones"
+
+msgid "Added new security patches for ajax."
+msgstr "Se agregaron nuevos parches de seguridad para ajax."
+
+msgid "Added new security patches and updated twitter API."
+msgstr "Se agregaron nuevos parches de seguridad y se actualizó la API de Twitter."
+
+msgid "Introduced new wp-admin menu structure."
+msgstr "Introdujo la nueva estructura de menú wp-admin."
+
+msgid "Option and instruction menus are merged in single menu."
+msgstr "Los menús de opciones e instrucciones se fusionan en un solo menú."
+
+msgid "Added new options to Post WooCommerce product to twitter."
+msgstr "Se agregaron nuevas opciones para publicar productos de WooCommerce en Twitter."
+
+msgid "Updated Compatibility issue with WordPress."
+msgstr "Problema de compatibilidad actualizado con WordPress."
+
+msgid "Resolved Compatibility issue with WordPress."
+msgstr "Se resolvió el problema de compatibilidad con WordPress."
+
+msgid "Fixed:"
+msgstr "Fijo:"
+
+msgid "Resolved Conflict issue with JetPack."
+msgstr "Se resolvió un problema de conflicto con JetPack."
+
+msgid "CSS Updates for WooCommerce."
+msgstr "Actualizaciones de CSS para WooCommerce."
+
+msgid "Plugin release. Operate all the basic functions."
+msgstr "Lanzamiento del complemento Opere todas las funciones básicas."
+
+msgid "TwitterCart instructions for Administrators"
+msgstr "Instrucciones de TwitterCart para administradores"
+
+msgid "Activation"
+msgstr "Activación"
+
+msgid "After activation of the TwitterCart plugin, you will need to setup API credentials to connect your Woocommerce store account."
+msgstr "Después de la activación del complemento de TwitterCart, deberá configurar las credenciales de la API para conectar su cuenta de la tienda WooCommerce."
+
+msgid "1. Twitter API key."
+msgstr "1. Clave de la API de Twitter"
+
+msgid "2. Twitter API secret key."
+msgstr "2. Clave secreta de la API de Twitter "
+
+msgid "3. Twitter API access token."
+msgstr "3. Token de acceso a la API de Twitter "
+
+msgid "4. Twitter API secret token secret."
+msgstr "4. Secreto del token secreto de la API de Twitter."
+
+msgid "With TwitterCart, you can create custom hashtags for promoting products on Twitter ( ie. Add to cart, Add to wishlist)."
+msgstr "Con TwitterCart, puede crear hashtags personalizados para promocionar productos en Twitter (es decir, agregar al carrito, agregar a la lista de deseos)."
+
+msgid "Posting products to Twitter"
+msgstr "Publicar productos en Twitter"
+
+msgid "In order to post items to Twitter, you should to go to the product page and click on the "Post product to Twitter" for the selected product in the Actions column. Next, you can change default text of the tweet. After you have customized your tweet, with or without the product image checkmarked, click the "Tweet" button product and your product tweet with hashtag(s) will be posted on Twitter instantly."
+msgstr "Para publicar elementos en Twitter, debe ir a la página del producto y hacer clic en "Publicar producto en Twitter" para el producto seleccionado en la columna Acciones. A continuación, puede cambiar el texto predeterminado del tweet. Una vez que haya personalizado su tweet, con o sin la imagen del producto marcada, haga clic en el producto del botón "Tweet" y su tweet del producto con hashtag (s) se publicarán en Twitter al instante."
+
+msgid "Twitter Account"
+msgstr "Cuenta de Twitter"
+
+msgid "If you have the Pro or Vendor version of TwitterCart, you can manage your Twitter account within Wordpress admin panel. Go to the Twitter account page within the plugin. On this page you can see the available functionality, which is very much like Twitter's own layout, ie. Retweets, replies, direct messages, follow and unfollow etc."
+msgstr "Si tiene la versión Pro o Vendor de TwitterCart, puede administrar su cuenta de Twitter dentro del panel de administración de Wordpress. Ve a la página de la cuenta de Twitter dentro del complemento. En esta página, puede ver la funcionalidad disponible, que se parece mucho al diseño propio de Twitter, es decir. Retweets, respuestas, mensajes directos, follow y unfollow, etc."
+
+msgid "Plugin Statistics"
+msgstr "Estadísticas de complementos"
+
+msgid "If you have the Pro or Vendor version of TwitterCart, Plugin statistics are available on Statistics page. You can see your most retweeted, most replied products etc. All statistics within all stores (if you have the Vendor plugin version) as well as all hashtags."
+msgstr "Si tiene la versión Pro o Vendor de TwitterCart, las estadísticas de Plugin están disponibles en la página de Estadísticas. Puede ver sus productos más retweets, más respondidos, etc. Todas las estadísticas de todas las tiendas (si tiene la versión de complemento de proveedor), así como todos los hashtags."
+
+msgid "TwitterCart instructions for Customers"
+msgstr "Instrucciones de TwitterCart para clientes"
+
+msgid "Customers have the option to authorize TwitterCart in their "My Account" page. At the bottom of "My Account" page, customers should click "Link my Twitter account" button and agree with Twitter rules on next page.  This authorizes their account and they can use hashtags in replies on Twitter for adding products from the store to their shopping cart or wishlist for checkout the next time they login to their account on the vendor store."
+msgstr "Los clientes tienen la opción de autorizar TwitterCart en su página "Mi cuenta". En la parte inferior de la página "Mi cuenta", los clientes deben hacer clic en el botón "Enlazar mi cuenta de Twitter" y aceptar las reglas de Twitter en la página siguiente. Esto autoriza su cuenta y pueden usar hashtags en las respuestas en Twitter para agregar productos de la tienda a su carrito de compras o lista de deseos para pagar la próxima vez que inicien sesión en su cuenta en la tienda del proveedor."
+
+msgid "Frequently Asked Questions"
+msgstr "Preguntas frecuentes"
+
+msgid "Why do I need to connect my Twitter account?"
+msgstr "¿Por qué necesito conectar mi cuenta de Twitter?"
+
+msgid "By connecting your Twitter with your ecommerce store account, you are notifying the store that #TwitterCart requests coming from your Twitter account should be added to your shopping cart. Without that link, the store owner would not know to which customer's cart to add the item. To edit your Twitter authorization preferences, visit your account page or opt out of having the store respond to your #TwitterCart requests here (your accounts must be connected in order to opt out)."
+msgstr "Al conectar su Twitter con su cuenta de la tienda de comercio electrónico, notificará a la tienda que las solicitudes #TwitterCart provenientes de su cuenta de Twitter deben agregarse a su carrito de compras. Sin ese enlace, el propietario de la tienda no sabría a qué carro del cliente agregar el artículo. Para editar sus preferencias de autorización de Twitter, visite la página de su cuenta u opte por no permitir que la tienda responda sus solicitudes de #TwitterCart aquí (sus cuentas deben estar conectadas para cancelar su suscripción)."
+
+msgid "Will #TwitterCart work if my Twitter account is protected?"
+msgstr "¿Funcionará #TwitterCart si mi cuenta de Twitter está protegida?"
+
+msgid "No, #TwitterCart only works for public Twitter accounts and tweets. If your Twitter account is protected, only your followers can see your tweets. This means that #TwitterCart won't be able to see your replies and add the item to your shopping cart."
+msgstr "No, #TwitterCart solo funciona para cuentas públicas de Twitter y tweets. Si su cuenta de Twitter está protegida, solo sus seguidores pueden ver sus tweets. Esto significa que #TwitterCart no podrá ver sus respuestas y agregar el artículo a su carrito de compras."
+
+msgid "Am I buying the product when I reply with the store "#TwitterCart" hashtag?"
+msgstr "¿Estoy comprando el producto cuando respondo con el hashtag "#TwitterCart" de la tienda?"
+
+msgid "No, replying with "#TwitterCart" hashtag will only save the item to your Cart. You can always review or edit your Cart at a later time. You will also receive a reply tweet from store Twitter account describing the status of your request (e.g., whether the item was successfully added to your Cart, if it was out of stock, or how you can finish checking out later)."
+msgstr "No, responder con el hashtag "#TwitterCart" solo guardará el artículo en su carrito. Siempre puede revisar o editar su carrito en otro momento. También recibirá un tweet de respuesta de la cuenta de Twitter de la tienda que describe el estado de su solicitud (por ejemplo, si el artículo se agregó con éxito a su carrito, si se agotó, o cómo puede terminar de pagar más tarde)."
+
+msgid "Who can see what I've added to my Cart?"
+msgstr "¿Quién puede ver lo que agregué a mi carrito?"
+
+msgid "Most content is public on Twitter, so your #TwitterCart replies will be visible to whomever you replied, to those viewing the conversation, and on your own Timeline (unless your Twitter account is set to private)."
+msgstr "La mayoría de los contenidos son públicos en Twitter, por lo que sus respuestas de #TwitterCart serán visibles para quienes respondieron, para quienes estén viendo la conversación y en su propia línea de tiempo (a menos que su cuenta de Twitter esté configurada como privada)."
+
+msgid "To work correctly with the Twitter API, you must install the necessary permissions (Read, write, and direct messages) on"
+msgstr "Para trabajar correctamente con la API de Twitter, debe instalar los permisos necesarios (lectura, escritura y mensajes directos) en"
+
+msgid "Apps page"
+msgstr "Página de aplicaciones"
+
+msgid "Tweet Tips"
+msgstr "Tweet Consejos"
+
+msgid "Edit your tweet... you have 140 characters including the image so make it good and you should reference the #hashtag you use in your tweet that you wish customers or visitor to reply with to gain new business."
+msgstr "Edite su tweet ... tiene 140 caracteres, incluida la imagen, por lo que es bueno y debe hacer referencia al #hashtag que usa en su tweet al que desea que los clientes o visitantes respondan para obtener nuevos negocios."
+
+msgid "So for example if your hashtag is #mytwittercart then edit the product tweet before posting to include your hashtag ie. reply with #mytwittercart to add this item to your cart!"
+msgstr "Por ejemplo, si su hashtag es #mytwittercart, edite el tweet del producto antes de publicarlo para incluir su hashtag, es decir. ¡responde con #mytwittercart para agregar este artículo a tu carrito!"
+
+msgid "What's New?"
+msgstr "¿Qué hay de nuevo?"
+
+msgid "Product image"
+msgstr "Imagen del producto"
+
+msgid "No product found"
+msgstr "Ningún producto encontrado"
+
+msgid "Fantastic!  You've successfully installed #TwitterCart and all you need to do now is go to "
+msgstr "¡Fantástico! Ha instalado con éxito #TwitterCart y todo lo que necesita hacer ahora es ir a"
+
+msgid "Settings"
+msgstr "Configuraciones"
+
+msgid " and setup your Twitter Account to work with #TwitterCart."
+msgstr "y configura tu cuenta de Twitter para que funcione con #TwitterCart."
+
+msgid "Fantastic!  You've successfully installed #TwitterCart and all you need to do  setup your Products."
+msgstr "¡Fantástico! Ha instalado con éxito #TwitterCart y todo lo que necesita para configurar sus productos."
+
+msgid "Upgrade to Pro"
+msgstr "Actualiza a Pro"
+
+msgid "Upgrade to Vendor"
+msgstr "Actualizar a proveedor"
+
+msgid "Go to plugins"
+msgstr "Ir a complementos"
+
+msgid "#TwitterCart"
+msgstr "#TwitterCart"
+
+msgid "TwitterCart | Settings"
+msgstr "TwitterCart | Configuraciones"
+
+msgid "Settings"
+msgstr "Configuraciones"
+
+msgid "TwitterCart | Products"
+msgstr "TwitterCart | Productos"
+
+msgid "Products"
+msgstr "Productos"
+
+msgid "TwitterCart | Twitter Account"
+msgstr "TwitterCart | Cuenta de Twitter"
+
+msgid "TwitterCart | Support"
+msgstr "TwitterCart | Apoyo"
+
+msgid "Hide"
+msgstr "Esconder"
+
+msgid "Product was successfully posted to twitter!"
+msgstr "¡El producto fue publicado exitosamente en Twitter!"
+
+msgid "Options was successfully saved!"
+msgstr "Opciones se guardó con éxito!"
+
+msgid "HashTags was successfully saved!"
+msgstr "HashTags se guardó con éxito!"
+
+msgid "Image"
+msgstr "Imagen"
+
+msgid "Product"
+msgstr "Producto"
+
+msgid "Price"
+msgstr "Precio"
+
+msgid "Date"
+msgstr "Fecha"
+
+msgid "Category"
+msgstr "Categoría"
+
+msgid "In stock"
+msgstr "En stock"
+
+msgid "Twitter status"
+msgstr "Estado de Twitter"
+
+msgid "Actions"
+msgstr "Comportamiento"
+
+msgid "Already Posted"
+msgstr "Ya publicado"
+
+msgid "Not posted"
+msgstr "No publicado"
+
+msgid "Post to twitter"
+msgstr "Publicar en twitter"
+
+msgid "Repost to twitter"
+msgstr "Repost to twitter"
+
+msgid "TwitterCart"
+msgstr "TwitterCart"
+
+msgid "Tweet"
+msgstr "Pío"
+
+msgid ": activate to sort column ascending"
+msgstr ": activar para ordenar la columna ascendente"
+
+msgid ": activate to sort column descending"
+msgstr ": activar para ordenar la columna descendente"
+
+msgid "First"
+msgstr "primero"
+
+msgid "Last"
+msgstr "Último"
+
+msgid "Next"
+msgstr "Siguiente"
+
+msgid "Previous"
+msgstr "Anterior"
+
+msgid "No data available in table"
+msgstr "No hay datos disponibles en la tabla"
+
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr "Mostrando _START_ a _END_ de _TOTAL_ entradas"
+
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "Mostrando 0 a 0 de 0 entradas"
+
+msgid "(filtered from _MAX_ total entries)"
+msgstr "(filtrado de _MAX_ entradas totales)"
+
+msgid "Show _MENU_ entries"
+msgstr "Mostrar entradas _MENU_"
+
+msgid "Loading..."
+msgstr "Cargando..."
+
+msgid "Processing..."
+msgstr "Tratamiento..."
+
+msgid "Search:"
+msgstr "Buscar:"
+
+msgid "No matching records found"
+msgstr "No se encontraron registros coincidentes"
+
+msgid "TwitterCart is now translation ready for the following 5 languages; Arabic, French, Hindi, Spanish, and Russian. Go to Settings/General and choose from the dropdown under "Site Language" to switch language."
+msgstr "TwitterCart ahora está listo para la traducción para los siguientes 5 idiomas; Árabe, francés, hindi, español y ruso. Vaya a Configuración / General y elija del menú desplegable en "Idioma del sitio" para cambiar el idioma."
+
+msgid "Change account"
+msgstr "Cambiar cuenta"
+
+msgid "Deactivate my account"
+msgstr "Desactivar mi cuenta"
+
+msgid "Link my twitter account"
+msgstr "Enlazar mi cuenta de twitter"
+
+msgid "The product was successfully posted to Twitter!"
+msgstr "¡El producto fue publicado exitosamente en Twitter!"
+
+msgid "Some error. Try again later"
+msgstr "Algún error. Inténtalo más tarde"

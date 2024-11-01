@@ -1,0 +1,392 @@
+# Copyright (C) 2018 TwitterCart
+# This file is distributed under the same license as the TwitterCart package.
+msgid ""
+msgstr ""
+"Project-Id-Version: TwitterCart 2.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/twittercart\n"
+"POT-Creation-Date: 2018-04-08 14:05:45+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Post product to Twitter"
+msgstr "Опубликовать продукт в щебет"
+
+msgid "tweets"
+msgstr "твитов"
+
+msgid "following"
+msgstr "следующий"
+
+msgid "followers"
+msgstr "следующий"
+
+msgid "TwitterCart Settings"
+msgstr "Настройки TwitterCart"
+
+msgid "Support"
+msgstr "Поддержка"
+
+msgid "For support, please go to Wordpress and submit a support request (link to follow once we finalize the plugin registration)."
+msgstr "Для получения поддержки перейдите в Wordpress и отправьте запрос на поддержку (ссылка будет приведена после завершения регистрации плагина)."
+
+msgid "For WordPress users on the GPL (Free) version of TwitterCart, please go to WordPress and"
+msgstr "Для пользователей WordPress в GPL (бесплатной) версии TwitterCart, пожалуйста, перейдите в WordPress и"
+
+msgid "Submit a Support Request."
+msgstr "Отправьте запрос на поддержку."
+
+msgid "Twitter API"
+msgstr "API щебет"
+
+msgid "Twitter API key"
+msgstr "Ключ API щебет"
+
+msgid "Twitter API secret"
+msgstr "Секретный интерфейс щебет"
+
+msgid "Access token"
+msgstr "Токен доступа"
+
+msgid "Access token secret"
+msgstr "Секрет доступа к токенам"
+
+msgid "Save"
+msgstr "Сохранить"
+
+msgid "TwitterCart #HashTags"
+msgstr "TwitterCart #Хештеги"
+
+msgid "#AddToCart hashtag"
+msgstr "#AddToCart хэштег"
+
+msgid "#AddToWishlist hashtag"
+msgstr "#AddToWishlist хэштег"
+
+msgid "How I obtain Twitter App API details?"
+msgstr "Как получить информацию о API-интерфейсе щебет?"
+
+msgid "<span>1</span>Go to the <a href="https://apps.twitter.com/">Apps page</a> on Twitter and click &quot;Create New App&quot;."
+msgstr "<span>1</span> Перейдите на страницу <a href="https://apps.twitter.com/"> Приложения </a> в щебет и нажмите &quot;Создать новое приложение&quot;."
+
+msgid "<span>2</span>Set required info about your application and save."
+msgstr "<span>2</span> Установите требуемую информацию о вашем приложении и сохраните."
+
+msgid "<span>3</span>Go to &quot;Keys and Access Tokens&quot; tab and copy API key and API secret."
+msgstr "<span>3</span> Перейдите к &quot; Ключи и токены доступа &quot; вкладку и скопировать ключ API API и секрет API."
+
+msgid "<span>4</span>Click &quot;Create my access token&quot; and copy genearted token and token secret."
+msgstr "<span>4</span> Нажмите &quot; Создать мой токен доступа &quot; и копировать генетический токен и токен."
+
+msgid "What can I include in hashtags fields?"
+msgstr "Что я могу включить в поля xештеги?"
+
+msgid "The Hashtag can contain any characters and/ or numerical digits, but max length must not exceed 140 characters."
+msgstr "хэштег может содержать любые символы и / или числовые цифры, но максимальная длина не должна превышать 140 символов."
+
+msgid "TwitterCart Support"
+msgstr "Поддержка TwitterCart"
+
+msgid "Latest Update"
+msgstr "Последнее обновление"
+
+msgid "Added:"
+msgstr "Добавлено:"
+
+msgid "Added new security patches for ajax."
+msgstr "Добавлены новые патчи безопасности для ajax."
+
+msgid "Update history"
+msgstr "История обновлений"
+
+msgid "Added new security patches for ajax."
+msgstr "Добавлены новые патчи безопасности для ajax."
+
+msgid "Added new security patches and updated twitter API."
+msgstr "Добавлены новые патчи безопасности и обновленный API щебет."
+
+msgid "Introduced new wp-admin menu structure."
+msgstr "Введена новая структура меню wp-admin."
+
+msgid "Option and instruction menus are merged in single menu."
+msgstr "Меню параметров и команд объединяются в одно меню."
+
+msgid "Added new options to Post WooCommerce product to twitter."
+msgstr "Добавлены новые опции для публикации продукта WooCommerce для щебет."
+
+msgid "Updated Compatibility issue with WordPress."
+msgstr "Обновлена проблема совместимости с WordPress."
+
+msgid "Resolved Compatibility issue with WordPress."
+msgstr "Решена проблема совместимости с WordPress."
+
+msgid "Fixed:"
+msgstr "Исправлена:"
+
+msgid "Resolved Conflict issue with JetPack."
+msgstr "Устранена проблема конфликтов с помощью JetPack."
+
+msgid "CSS Updates for WooCommerce."
+msgstr "Обновления CSS для WooCommerce."
+
+msgid "Plugin release. Operate all the basic functions."
+msgstr "Выпуск плагина. Управлять всеми основными функциями."
+
+msgid "TwitterCart instructions for Administrators"
+msgstr "Инструкции TwitterCart для администраторов"
+
+msgid "Activation"
+msgstr "активация"
+
+msgid "After activation of the TwitterCart plugin, you will need to setup API credentials to connect your Woocommerce store account."
+msgstr "После активации плагина TwitterCart вам нужно будет установить учетные данные API для подключения учетной записи магазина Woocommerce."
+
+msgid "1. Twitter API key."
+msgstr "1. Ключ API щебет."
+
+msgid "2. Twitter API secret key."
+msgstr "2. Секретный ключ API щебет."
+
+msgid "3. Twitter API access token."
+msgstr "3. Твиттер доступа к API-интерфейсу щебет."
+
+msgid "4. Twitter API secret token secret."
+msgstr "4. Секрет секретного токена API щебет."
+
+msgid "With TwitterCart, you can create custom hashtags for promoting products on Twitter ( ie. Add to cart, Add to wishlist)."
+msgstr "С TwitterCart вы можете создавать собственные хэштаги для продвижения продуктов в щебет (т. Е. Добавить в корзину, Добавить в список пожеланий)."
+
+msgid "Posting products to Twitter"
+msgstr "Публикация продуктов в щебет"
+
+msgid "In order to post items to Twitter, you should to go to the product page and click on the "Post product to Twitter" for the selected product in the Actions column. Next, you can change default text of the tweet. After you have customized your tweet, with or without the product image checkmarked, click the "Tweet" button product and your product tweet with hashtag(s) will be posted on Twitter instantly."
+msgstr "Чтобы отправлять сообщения в щебет, вам нужно перейти на страницу продукта и нажать «Опубликовать товар в Twitter» для выбранного продукта в столбце «Действия». Затем вы можете изменить текст по умолчанию для твита. После того, как вы настроили свой твит с изображением продукта или без него, нажмите кнопку «Tweet», и ваш твит твит с хэштегами будет размещен в щебет мгновенно »."
+
+msgid "Twitter Account"
+msgstr "Аккаунт щебет"
+
+msgid "If you have the Pro or Vendor version of TwitterCart, you can manage your Twitter account within Wordpress admin panel. Go to the Twitter account page within the plugin. On this page you can see the available functionality, which is very much like Twitter's own layout, ie. Retweets, replies, direct messages, follow and unfollow etc."
+msgstr "Если у вас есть Pro или Vendor версия TwitterCart, вы можете управлять своей учетной записью щебет в панели администратора Wordpress. Перейдите на страницу учетной записи щебет в плагине. На этой странице вы можете увидеть доступные функции, которые очень похожи на собственный макет щебет, т. Е. Retweets, ответы, прямые сообщения, следить и отменить подписку и т. Д. "
+
+msgid "Plugin Statistics"
+msgstr "Статистика плагинов"
+
+msgid "If you have the Pro or Vendor version of TwitterCart, Plugin statistics are available on Statistics page. You can see your most retweeted, most replied products etc. All statistics within all stores (if you have the Vendor plugin version) as well as all hashtags."
+msgstr "Если у вас есть версия TwitterCart Pro или Vendor, статистика плагинов доступна на странице «Статистика». Вы можете увидеть самые переработанные, наиболее ответившие продукты и т. Д. Вся статистика во всех магазинах (если у вас есть версия плагина Vendor), а также все хэштеги."
+
+msgid "TwitterCart instructions for Customers"
+msgstr "Инструкции TwitterCart для клиентов"
+
+msgid "Customers have the option to authorize TwitterCart in their "My Account" page. At the bottom of "My Account" page, customers should click "Link my Twitter account" button and agree with Twitter rules on next page.  This authorizes their account and they can use hashtags in replies on Twitter for adding products from the store to their shopping cart or wishlist for checkout the next time they login to their account on the vendor store."
+msgstr "Клиенты могут авторизовать TwitterCart на странице «Моя учетная запись». В нижней части страницы «Моя учетная запись» клиенты должны нажать кнопку «Связать мою учетную запись щебет» и согласиться с правилами щебет на следующей странице. Это разрешает их учетную запись, и они могут использовать хэштеги в ответах на щебет для добавления продуктов из магазина в свою корзину покупок или список пожеланий для проверки при следующем входе в свою учетную запись в магазине поставщиков »."
+
+msgid "Frequently Asked Questions"
+msgstr "Часто задаваемые вопросы"
+
+msgid "Why do I need to connect my Twitter account?"
+msgstr "Зачем мне подключаться к моей учетной записи щебет?"
+
+msgid "By connecting your Twitter with your ecommerce store account, you are notifying the store that #TwitterCart requests coming from your Twitter account should be added to your shopping cart. Without that link, the store owner would not know to which customer's cart to add the item. To edit your Twitter authorization preferences, visit your account page or opt out of having the store respond to your #TwitterCart requests here (your accounts must be connected in order to opt out)."
+msgstr "Подключив свой щебет с учетной записью магазина электронной торговли, вы уведомляете магазин о том, что запросы #TwitterCart, поступающие из вашей учетной записи щебет, должны быть добавлены в вашу корзину покупок. Без этой ссылки владелец магазина не будет знать, к какой корзине клиента добавлен товар. Чтобы изменить настройки авторизации щебет, перейдите на страницу своей учетной записи или откажитесь от ответа на ваш запрос #TwitterCart (ваши учетные записи должны быть подключены, чтобы отказаться)."
+
+msgid "Will #TwitterCart work if my Twitter account is protected?"
+msgstr "Будет ли #TwitterCart работать, если моя учетная запись щебет защищена?"
+
+msgid "No, #TwitterCart only works for public Twitter accounts and tweets. If your Twitter account is protected, only your followers can see your tweets. This means that #TwitterCart won't be able to see your replies and add the item to your shopping cart."
+msgstr "Нет, #TwitterCart работает только для публичных аккаунтов и твитов щебет. Если ваша учетная запись щебет защищена, только ваши сторонники могут видеть ваши твиты. Это означает, что #TwitterCart не сможет увидеть ваши ответы и добавить элемент в корзину."
+
+msgid "Am I buying the product when I reply with the store "#TwitterCart" hashtag?"
+msgstr "Я покупаю продукт, когда отвечаю в магазине «#TwitterCart» хэштег?"
+
+msgid "No, replying with "#TwitterCart" hashtag will only save the item to your Cart. You can always review or edit your Cart at a later time. You will also receive a reply tweet from store Twitter account describing the status of your request (e.g., whether the item was successfully added to your Cart, if it was out of stock, or how you can finish checking out later)."
+msgstr "Нет, ответ с хэштегом «#TwitterCart» сохранит элемент только в вашей корзине. Вы всегда можете просмотреть или отредактировать свою корзину позже. Вы также получите ответный твит из учетной записи щебет, описывающий статус вашего запроса (например, был ли элемент успешно добавлен в вашу корзину, если он отсутствовал на складе или как вы можете закончить проверку позже)."
+
+msgid "Who can see what I've added to my Cart?"
+msgstr "Кто может видеть, что я добавил в свою корзину?"
+
+msgid "Most content is public on Twitter, so your #TwitterCart replies will be visible to whomever you replied, to those viewing the conversation, and on your own Timeline (unless your Twitter account is set to private)."
+msgstr "Большинство контента публикуется в щебет, поэтому ваши ответы #TwitterCart будут видны тем, кому вы ответили, тем, кто просматривает разговор, и на вашей собственной временной шкале (если ваша учетная запись щебет не установлена в приватном режиме) »."
+
+msgid "To work correctly with the Twitter API, you must install the necessary permissions (Read, write, and direct messages) on"
+msgstr "Чтобы правильно работать с API щебет, вы должны установить необходимые разрешения (чтение, запись и прямые сообщения) на"
+
+msgid "Apps page"
+msgstr "Страница приложений"
+
+msgid "Tweet Tips"
+msgstr "Советы по чтению"
+
+msgid "Edit your tweet... you have 140 characters including the image so make it good and you should reference the #hashtag you use in your tweet that you wish customers or visitor to reply with to gain new business."
+msgstr "Отредактируйте свой твит ... у вас есть 140 символов, включая изображение, поэтому сделайте это хорошо, и вы должны указать #хэштег, который вы используете в своем твиттере, на который вы хотите, чтобы клиенты или посетитель отвечали, чтобы получить новый бизнес »."
+
+msgid "So for example if your hashtag is #mytwittercart then edit the product tweet before posting to include your hashtag ie. reply with #mytwittercart to add this item to your cart!"
+msgstr "Так, например, если ваш хэштег #mytwittercart, то отредактируйте чириканье продукта перед публикацией, чтобы включить ваш хэштаг, т.е. ответьте #mytwittercart, чтобы добавить этот товар в свою корзину!"
+
+msgid "What's New?"
+msgstr "Что нового?"
+
+msgid "Product image"
+msgstr "Изображение продукта"
+
+msgid "No product found"
+msgstr "Не найдено ни одного продукта"
+
+msgid "Fantastic!  You've successfully installed #TwitterCart and all you need to do now is go to "
+msgstr "Фантастика! Вы успешно установили #TwitterCart, и все, что вам нужно сделать, это перейти к"
+
+msgid "Settings"
+msgstr "настройки"
+
+msgid " and setup your Twitter Account to work with #TwitterCart."
+msgstr "и настройте свою учетную запись щебет для работы с #TwitterCart."
+
+msgid "Fantastic!  You've successfully installed #TwitterCart and all you need to do  setup your Products."
+msgstr "Фантастика! Вы успешно установили #TwitterCart и все, что вам нужно для настройки ваших продуктов."
+
+msgid "Upgrade to Pro"
+msgstr "Обновление до Pro"
+
+msgid "Upgrade to Vendor"
+msgstr "Обновление до поставщика"
+
+msgid "Go to plugins"
+msgstr "Перейти к плагинам"
+
+msgid "#TwitterCart"
+msgstr "#TwitterCart"
+
+msgid "TwitterCart | Settings"
+msgstr "TwitterCart | настройки"
+
+msgid "Settings"
+msgstr "настройки"
+
+msgid "TwitterCart | Products"
+msgstr "TwitterCart | Продукты"
+
+msgid "Products"
+msgstr "Продукты"
+
+msgid "TwitterCart | Twitter Account"
+msgstr "TwitterCart | Аккаунт щебет"
+
+msgid "TwitterCart | Support"
+msgstr "TwitterCart | Поддержка"
+
+msgid "Hide"
+msgstr "Спрятать"
+
+msgid "Product was successfully posted to twitter!"
+msgstr "Продукт был успешно отправлен в щебет!"
+
+msgid "Options was successfully saved!"
+msgstr "Параметры успешно сохранены!"
+
+msgid "HashTags was successfully saved!"
+msgstr "Хештеги был успешно сохранен!"
+
+msgid "Image"
+msgstr "Образ"
+
+msgid "Product"
+msgstr "Продукт"
+
+msgid "Price"
+msgstr "Цена"
+
+msgid "Date"
+msgstr "Дата"
+
+msgid "Category"
+msgstr "категория"
+
+msgid "In stock"
+msgstr "В наличии"
+
+msgid "Twitter status"
+msgstr "Статус щебет"
+
+msgid "Actions"
+msgstr "действия"
+
+msgid "Already Posted"
+msgstr "Уже опубликовано"
+
+msgid "Not posted"
+msgstr "Не опубликовано"
+
+msgid "Post to twitter"
+msgstr "Опубликовать в щебет"
+
+msgid "Repost to twitter"
+msgstr "Передать в щебет"
+
+msgid "TwitterCart"
+msgstr "TwitterCart"
+
+msgid "Tweet"
+msgstr "чирикать"
+
+msgid ": activate to sort column ascending"
+msgstr ": активировать сортировку столбца по возрастанию"
+
+msgid ": activate to sort column descending"
+msgstr ": активировать сортировку колонки по убыванию"
+
+msgid "First"
+msgstr "Первый"
+
+msgid "Last"
+msgstr "Последний"
+
+msgid "Next"
+msgstr "следующий"
+
+msgid "Previous"
+msgstr "предыдущий"
+
+msgid "No data available in table"
+msgstr "Данные отсутствуют в таблице"
+
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr "Отображение _START_ в _END_ из _TOTAL_ записей"
+
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "Отображение от 0 до 0 из 0 записей"
+
+msgid "(filtered from _MAX_ total entries)"
+msgstr "(отфильтрован из _MAX_ всего записей)"
+
+msgid "Show _MENU_ entries"
+msgstr "Показать _MENU_ записи"
+
+msgid "Loading..."
+msgstr "Loading ..."
+
+msgid "Processing..."
+msgstr "Обработка ..."
+
+msgid "Search:"
+msgstr "Поиск:"
+
+msgid "No matching records found"
+msgstr "Совпадающих записей не найдено"
+
+msgid "TwitterCart is now translation ready for the following 5 languages; Arabic, French, Hindi, Spanish, and Russian. Go to Settings/General and choose from the dropdown under "Site Language" to switch language."
+msgstr "TwitterCart теперь готов к переводу на следующие 5 языков; Арабском, французском, хинди, испанском и русском языках. Перейдите в «Настройки / Общие» и выберите в раскрывающемся списке «Язык сайта» для переключения языка."
+
+msgid "Change account"
+msgstr "Изменить аккаунт"
+
+msgid "Deactivate my account"
+msgstr "Отключить аккаунт"
+
+msgid "Link my twitter account"
+msgstr "Ссылка на мою учетную запись щебет"
+
+msgid "The product was successfully posted to Twitter!"
+msgstr "Продукт был успешно отправлен в щебет!"
+
+msgid "Some error. Try again later"
+msgstr "Некоторая ошибка. Попробуйте позже"

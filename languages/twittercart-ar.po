@@ -1,0 +1,392 @@
+# Copyright (C) 2018 TwitterCart
+# This file is distributed under the same license as the TwitterCart package.
+msgid ""
+msgstr ""
+"Project-Id-Version: TwitterCart 2.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/twittercart\n"
+"POT-Creation-Date: 2018-04-08 14:05:45+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Post product to Twitter"
+msgstr "انشر المنتج على تويتر"
+
+msgid "tweets"
+msgstr "تويت"
+
+msgid "following"
+msgstr "التالية"
+
+msgid "followers"
+msgstr "متابعون"
+
+msgid "TwitterCart Settings"
+msgstr "إعدادات العربة"
+
+msgid "Support"
+msgstr "الدعم"
+
+msgid "For support, please go to Wordpress and submit a support request (link to follow once we finalize the plugin registration)."
+msgstr "للحصول على الدعم ، يرجى الانتقال إلى وورد وإرسال طلب دعم (رابط يتبع ذلك بمجرد الانتهاء من تسجيل المكون الإضافي)."
+
+msgid "For WordPress users on the GPL (Free) version of TwitterCart, please go to WordPress and"
+msgstr "بالنسبة لمستخدمي وورد على إصدار GPL (المجاني) من سلة التغريد ، يرجى الانتقال إلى وورد و"
+
+msgid "Submit a Support Request."
+msgstr "تقديم طلب الدعم."
+
+msgid "Twitter API"
+msgstr "واجهة برمجة تطبيقات تغريد"
+
+msgid "Twitter API key"
+msgstr "مفتاح واجهة برمجة تطبيقات تغريد"
+
+msgid "Twitter API secret"
+msgstr "تويتر المعهد سرية"
+
+msgid "Access token"
+msgstr "رمز وصول"
+
+msgid "Access token secret"
+msgstr "الوصول إلى رمز رمزي"
+
+msgid "Save"
+msgstr "حفظ"
+
+msgid "TwitterCart #HashTags"
+msgstr "سلة التغريد # علامات تصنيف"
+
+msgid "#AddToCart hashtag"
+msgstr "#أضف إلى السلة رابطة هاشتاق"
+
+msgid "#AddToWishlist hashtag"
+msgstr "#أضف إلى قائمة الامنيات رابطة هاشتاق"
+
+msgid "How I obtain Twitter App API details?"
+msgstr "كيف يمكنني الحصول على تفاصيل واجهة برمجة التطبيقات لتطبيق Twitter؟"
+
+msgid "<span>1</span>Go to the <a href="https://apps.twitter.com/">Apps page</a> on Twitter and click &quot;Create New App&quot;."
+msgstr "<span>1</span> انتقل إلى <a href="https://apps.twitter.com/"> صفحة التطبيقات </a> على تغريد وانقر على &quot;؛ إنشاء تطبيق جديد &quot;؛."
+
+msgid "<span>2</span>Set required info about your application and save."
+msgstr "<span>2</span> عيّن المعلومات المطلوبة حول تطبيقك وحفظه."
+
+msgid "<span>3</span>Go to &quot;Keys and Access Tokens&quot; tab and copy API key and API secret."
+msgstr "<span>3</span> انتقل إلى &quot;؛ مفاتيح و وصول الرموز &quot;؛ علامة التبويب ونسخ مفتاح API وسرية API."
+
+msgid "<span>4</span>Click &quot;Create my access token&quot; and copy genearted token and token secret."
+msgstr "<span>4</span> انقر فوق &quot;؛ إنشاء رمز الدخول الخاص بي &quot;؛ ونسخ رمز عابر ورمز مميز."
+
+msgid "What can I include in hashtags fields?"
+msgstr "ما الذي يمكنني تضمينه في حقول هاشتاج؟"
+
+msgid "The Hashtag can contain any characters and/ or numerical digits, but max length must not exceed 140 characters."
+msgstr "يمكن أن تحتوي رابطة هاشتاق على أي أحرف و / أو أرقام رقمية ، ولكن يجب ألا يتجاوز الحد الأقصى 140 حرفًا."
+
+msgid "TwitterCart Support"
+msgstr "تويتر عربة الدعم"
+
+msgid "Latest Update"
+msgstr "اخر تحديث"
+
+msgid "Added:"
+msgstr "وأضاف:"
+
+msgid "Added new security patches for ajax."
+msgstr "وأضاف بقع أمنية جديدة ل اياكس."
+
+msgid "Update history"
+msgstr "تحديث السجل"
+
+msgid "Added new security patches for ajax."
+msgstr "وأضاف بقع أمنية جديدة ل اياكس."
+
+msgid "Added new security patches and updated twitter API."
+msgstr "تمت إضافة تصحيحات أمان جديدة وتحديث واجهة برمجة تطبيقات تغريد."
+
+msgid "Introduced new wp-admin menu structure."
+msgstr "قدم بنية قائمة الفسفور الابيض بين المشرف جديدة."
+
+msgid "Option and instruction menus are merged in single menu."
+msgstr "يتم دمج قوائم الخيار والتعليمات في قائمة واحدة."
+
+msgid "Added new options to Post WooCommerce product to twitter."
+msgstr "تمت إضافة خيارات جديدة لمنتج بريد وو التجارة إلى تغريد."
+
+msgid "Updated Compatibility issue with WordPress."
+msgstr "قضية التوافق المحدثة مع وورد"
+
+msgid "Resolved Compatibility issue with WordPress."
+msgstr "حل مشكلة التوافق مع وورد."
+
+msgid "Fixed:"
+msgstr "ثابت:"
+
+msgid "Resolved Conflict issue with JetPack."
+msgstr "حل مشكلة مع جيت باك."
+
+msgid "CSS Updates for WooCommerce."
+msgstr "تحديثات المغلق لـ وو التجارة."
+
+msgid "Plugin release. Operate all the basic functions."
+msgstr "الافراج عن البرنامج المساعد. قم بتشغيل جميع الوظائف الأساسية."
+
+msgid "TwitterCart instructions for Administrators"
+msgstr "تعليمات سلة تويتر للمسؤولين"
+
+msgid "Activation"
+msgstr "تفعيل"
+
+msgid "After activation of the TwitterCart plugin, you will need to setup API credentials to connect your Woocommerce store account."
+msgstr "بعد تفعيل ملحق سلة التغريد ، ستحتاج إلى إعداد بيانات اعتماد المعهد لتوصيل حساب التجارة الوحوش متجر الخاص بك."
+
+msgid "1. Twitter API key."
+msgstr "1. مفتاح واجهة برمجة تطبيقات تغريد. "
+
+msgid "2. Twitter API secret key."
+msgstr "2. مفتاح سرية API تويتر."
+
+msgid "3. Twitter API access token."
+msgstr "3. رمز الدخول إلى واجهة برمجة تطبيقات Twitter."
+
+msgid "4. Twitter API secret token secret."
+msgstr "4. تغريد API سر رمزي سر."
+
+msgid "With TwitterCart, you can create custom hashtags for promoting products on Twitter ( ie. Add to cart, Add to wishlist)."
+msgstr "باستخدام سلة التغريد ، يمكنك إنشاء علامات تصنيف مخصصة لترويج المنتجات على تغريد (على سبيل المثال ، إضافة إلى سلة التسوق ، إضافة إلى قائمة المفضلات)."
+
+msgid "Posting products to Twitter"
+msgstr "نشر المنتجات على تويتر"
+
+msgid "In order to post items to Twitter, you should to go to the product page and click on the "Post product to Twitter" for the selected product in the Actions column. Next, you can change default text of the tweet. After you have customized your tweet, with or without the product image checkmarked, click the "Tweet" button product and your product tweet with hashtag(s) will be posted on Twitter instantly."
+msgstr "لنشر العناصر على تغريد ، يجب عليك الانتقال إلى صفحة المنتج والنقر فوق "نشر المنتج على تغريد" للمنتج المحدد في عمود "الإجراءات". بعد ذلك ، يمكنك تغيير النص الافتراضي للتغريدات. بعد تخصيص تغريدة الخاص بك ، مع أو بدون صورة المنتج علامة ، انقر فوق زر "سقسقة" زر المنتج وسيتم نشر تغريد المنتج الخاص بك مع الهاشتاج (ق) على تويتر على الفور."
+
+msgid "Twitter Account"
+msgstr "حساب على موقع تويتر"
+
+msgid "If you have the Pro or Vendor version of TwitterCart, you can manage your Twitter account within Wordpress admin panel. Go to the Twitter account page within the plugin. On this page you can see the available functionality, which is very much like Twitter's own layout, ie. Retweets, replies, direct messages, follow and unfollow etc."
+msgstr "إذا كان لديك الإصدار المؤيد أو بائع من سلة التغريد ، فيمكنك إدارة حساب تغريد الخاص بك داخل لوحة إدارة وورد. انتقل إلى صفحة حساب تغريد داخل المكون الإضافي. في هذه الصفحة ، يمكنك الاطلاع على الوظائف المتاحة ، والتي تشبه إلى حد كبير تصميم تغريد الخاص ، أي. الردود ، والردود ، والرسائل المباشرة ، والمتابعة وإلغاء المتابعة وما إلى ذلك."
+
+msgid "Plugin Statistics"
+msgstr "البرنامج المساعد الاحصائيات"
+
+msgid "If you have the Pro or Vendor version of TwitterCart, Plugin statistics are available on Statistics page. You can see your most retweeted, most replied products etc. All statistics within all stores (if you have the Vendor plugin version) as well as all hashtags."
+msgstr "إذا كان لديك إصدار المؤيد أو بائع من سلة التغريد ، فإن إحصائيات المساعد متاحة على صفحة إحصائيات. يمكنك الاطلاع على معظم المنتجات المعاد تدويرها ، ومعظم المنتجات التي تم الرد عليها إلخ. جميع الإحصاءات داخل جميع المتاجر (إذا كان لديك إصدار المكوّن الإضافي للبائع) بالإضافة إلى جميع علامات التصنيف."
+
+msgid "TwitterCart instructions for Customers"
+msgstr "تعليمات عربة التسوق للعملاء"
+
+msgid "Customers have the option to authorize TwitterCart in their "My Account" page. At the bottom of "My Account" page, customers should click "Link my Twitter account" button and agree with Twitter rules on next page.  This authorizes their account and they can use hashtags in replies on Twitter for adding products from the store to their shopping cart or wishlist for checkout the next time they login to their account on the vendor store."
+msgstr "يتوفر للعملاء خيار تخويل سلة التغريد في صفحة "حسابي". في أسفل صفحة "حسابي" ، يجب على العملاء النقر فوق زر "ربط حساب تغريد الخاص بي" والموافقة على قواعد تغريد في الصفحة التالية. يخول هذا الحساب الخاص بهم ويمكنهم استخدام علامات التصنيف في الردود على تغريد لإضافة منتجات من المتجر إلى سلة التسوق الخاصة بهم أو قائمة الرغبات لمغادرة في المرة التالية التي يقومون فيها بتسجيل الدخول إلى حساباتهم في متجر البائع."
+
+msgid "Frequently Asked Questions"
+msgstr "أسئلة مكررة"
+
+msgid "Why do I need to connect my Twitter account?"
+msgstr "لماذا أحتاج إلى ربط حساب تغريد الخاص بي؟"
+
+msgid "By connecting your Twitter with your ecommerce store account, you are notifying the store that #TwitterCart requests coming from your Twitter account should be added to your shopping cart. Without that link, the store owner would not know to which customer's cart to add the item. To edit your Twitter authorization preferences, visit your account page or opt out of having the store respond to your #TwitterCart requests here (your accounts must be connected in order to opt out)."
+msgstr "من خلال ربط تويتر بحسابك في متجر التجارة الإلكترونية ، فإنك تقوم بإخطار المتجر بأنه يجب إضافة طلبات #TwitterCart القادمة من حساب تغريد إلى عربة التسوق الخاصة بك. بدون هذا الرابط ، لن يعرف صاحب المتجر سلة التسوق الخاصة بالعميل لإضافة العنصر. لتعديل تفضيلات التفويض من تغريد ، قم بزيارة صفحة حسابك أو اختر عدم استجابة المتجر لطلبات # عربة توتي الخاصة بك هنا (يجب أن تكون حساباتك متصلة من أجل الانسحاب)."
+
+msgid "Will #TwitterCart work if my Twitter account is protected?"
+msgstr "هل يعمل # عربة توتي إذا كان حساب تغريد الخاص بي محميًا؟"
+
+msgid "No, #TwitterCart only works for public Twitter accounts and tweets. If your Twitter account is protected, only your followers can see your tweets. This means that #TwitterCart won't be able to see your replies and add the item to your shopping cart."
+msgstr "لا ، لا يعمل # عربة توتي إلا مع حسابات تغريد العامة والتغريدات. إذا كان حساب تغريد الخاص بك محميًا ، فلن يتمكن سوى متابعيك من مشاهدة تغريداتك. هذا يعني أن # عربة توتي لن يتمكن من رؤية ردودك وإضافة العنصر إلى سلة التسوق الخاصة بك."
+
+msgid "Am I buying the product when I reply with the store "#TwitterCart" hashtag?"
+msgstr "هل أشتري المنتج عندما أرد عليه من خلال متجر "# عربة توتي" رابطة هاشتاق؟"
+
+msgid "No, replying with "#TwitterCart" hashtag will only save the item to your Cart. You can always review or edit your Cart at a later time. You will also receive a reply tweet from store Twitter account describing the status of your request (e.g., whether the item was successfully added to your Cart, if it was out of stock, or how you can finish checking out later)."
+msgstr "لا ، سيؤدي الرد على" # عربة توتي "الهاشتاج إلى حفظ العنصر فقط في سلة التسوق الخاصة بك. يمكنك دائمًا مراجعة سلة التسوق الخاصة بك أو تحريرها في وقت لاحق. كما ستتلقى رداً على تويتر من حساب تغريد الذي يصف حالة طلبك ( على سبيل المثال ، ما إذا كان العنصر قد تمت إضافته بنجاح إلى سلة التسوق الخاصة بك ، أو إذا لم يكن متوفرًا ، أو كيف يمكنك إنهاء عملية التحقق لاحقًا). "
+
+msgid "Who can see what I've added to my Cart?"
+msgstr "من يستطيع رؤية ما قمت بإضافته إلى سلة التسوق الخاصة بي؟"
+
+msgid "Most content is public on Twitter, so your #TwitterCart replies will be visible to whomever you replied, to those viewing the conversation, and on your own Timeline (unless your Twitter account is set to private)."
+msgstr "معظم المحتويات عامة على تغريد ، لذا ستكون ردود # عربة توتي مرئية لمن ردت عليها ، وعلى من يشاهد المحادثة ، وعلى الخط الزمني الخاص بك (ما لم يتم تعيين حساب تغريد على خاص)."
+
+msgid "To work correctly with the Twitter API, you must install the necessary permissions (Read, write, and direct messages) on"
+msgstr "للعمل بشكل صحيح مع واجهة برمجة تطبيقات تغريد ، يجب تثبيت الأذونات الضرورية (القراءة والكتابة وتوجيه الرسائل) على"
+
+msgid "Apps page"
+msgstr "صفحة التطبيقات"
+
+msgid "Tweet Tips"
+msgstr "نصائح تويت"
+
+msgid "Edit your tweet... you have 140 characters including the image so make it good and you should reference the #hashtag you use in your tweet that you wish customers or visitor to reply with to gain new business."
+msgstr "قم بتحرير تغريدة الخاص بك ... لديك 140 حرفًا بما في ذلك الصورة بحيث تجعلها جيدة ويجب عليك الرجوع إلى علامة تجزئة # الذي تستخدمه في تغريدك وترغب في أن يجيب العملاء أو الزائر معه للحصول على أعمال جديدة."
+
+msgid "So for example if your hashtag is #mytwittercart then edit the product tweet before posting to include your hashtag ie. reply with #mytwittercart to add this item to your cart!"
+msgstr "لذا على سبيل المثال ، إذا كان هاشتاج الخاص بك هو # عربة "تويتر" ، قم بتحرير تغريدة المنتج قبل النشر لتضمين هاشتاج الخاص بك. الرد مع # عربة "تويتر" لإضافة هذا العنصر إلى سلة التسوق الخاصة بك!"
+
+msgid "What's New?"
+msgstr "ما هو الجديد؟"
+
+msgid "Product image"
+msgstr "صورة المنتج"
+
+msgid "No product found"
+msgstr "لا يوجد منتج"
+
+msgid "Fantastic!  You've successfully installed #TwitterCart and all you need to do now is go to "
+msgstr "رائع! لقد قمت بتثبيت # عربة توتي بنجاح وكل ما عليك فعله الآن هو الذهاب إلى"
+
+msgid "Settings"
+msgstr "إعدادات"
+
+msgid " and setup your Twitter Account to work with #TwitterCart."
+msgstr "وإعداد حساب تغريد الخاص بك للعمل مع # عربة توتي."
+
+msgid "Fantastic!  You've successfully installed #TwitterCart and all you need to do  setup your Products."
+msgstr "رائع! لقد نجحت في تثبيت # عربة توتي وكل ما تحتاجه لإعداد منتجاتك."
+
+msgid "Upgrade to Pro"
+msgstr "التطور للاحترافية"
+
+msgid "Upgrade to Vendor"
+msgstr "الترقية إلى البائع"
+
+msgid "Go to plugins"
+msgstr "الذهاب إلى المكونات الإضافية"
+
+msgid "#TwitterCart"
+msgstr "#عربة توتي"
+
+msgid "TwitterCart | Settings"
+msgstr "سلة التغريد | إعدادات"
+
+msgid "Settings"
+msgstr "إعدادات"
+
+msgid "TwitterCart | Products"
+msgstr "عربة توتي | منتجات"
+
+msgid "Products"
+msgstr "منتجات"
+
+msgid "TwitterCart | Twitter Account"
+msgstr "عربة توتي | حساب على موقع تويتر"
+
+msgid "TwitterCart | Support"
+msgstr "سلة التغريد | الدعم"
+
+msgid "Hide"
+msgstr "إخفاء"
+
+msgid "Product was successfully posted to twitter!"
+msgstr "تم نشر المنتج بنجاح على تغريد!"
+
+msgid "Options was successfully saved!"
+msgstr "تم حفظ الخيارات بنجاح!"
+
+msgid "HashTags was successfully saved!"
+msgstr "تم حفظ الهاش بنجاح!"
+
+msgid "Image"
+msgstr "صورة"
+
+msgid "Product"
+msgstr "المنتج"
+
+msgid "Price"
+msgstr "السعر"
+
+msgid "Date"
+msgstr "تاريخ"
+
+msgid "Category"
+msgstr "الفئة"
+
+msgid "In stock"
+msgstr "في المخزن"
+
+msgid "Twitter status"
+msgstr "حالة تويتر"
+
+msgid "Actions"
+msgstr "أفعال"
+
+msgid "Already Posted"
+msgstr "أرسلت بالفعل"
+
+msgid "Not posted"
+msgstr "لم تنشر"
+
+msgid "Post to twitter"
+msgstr "انشر على تويتر"
+
+msgid "Repost to twitter"
+msgstr "إعادة النشر إلى تغريد"
+
+msgid "TwitterCart"
+msgstr "سلة التغريد"
+
+msgid "Tweet"
+msgstr "سقسقة"
+
+msgid ": activate to sort column ascending"
+msgstr ": تنشيط لفرز العمود تصاعدي"
+
+msgid ": activate to sort column descending"
+msgstr ": التنشيط لفرز عمود تنازلي"
+
+msgid "First"
+msgstr "أول"
+
+msgid "Last"
+msgstr "الاخير"
+
+msgid "Next"
+msgstr "التالى"
+
+msgid "Previous"
+msgstr "سابق"
+
+msgid "No data available in table"
+msgstr "لا توجد بيانات متاحة في الجدول"
+
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr "عرض _START_ إلى _END_ من _TOTAL_ إدخالات"
+
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "عرض 0 إلى 0 من 0 إدخالات"
+
+msgid "(filtered from _MAX_ total entries)"
+msgstr "(تم التصفية من إدخالات _MAX_ الإجمالية)"
+
+msgid "Show _MENU_ entries"
+msgstr "إظهار إدخالات _MENU_"
+
+msgid "Loading..."
+msgstr "جار التحميل..."
+
+msgid "Processing..."
+msgstr "معالجة..."
+
+msgid "Search:"
+msgstr "بحث:"
+
+msgid "No matching records found"
+msgstr "لم يتم العثور على سجلات متطابقة"
+
+msgid "TwitterCart is now translation ready for the following 5 languages; Arabic, French, Hindi, Spanish, and Russian. Go to Settings/General and choose from the dropdown under "Site Language" to switch language."
+msgstr "سلة التغريد الآن ترجمة جاهزة للغات 5 التالية ؛ العربية والفرنسية والهندية والإسبانية والروسية. انتقل إلى الإعدادات / عام واختر من القائمة المنسدلة ضمن "لغة الموقع" لتبديل اللغة."
+
+msgid "Change account"
+msgstr "تغير الحساب"
+
+msgid "Deactivate my account"
+msgstr "إلغاء تفعيل حسابي"
+
+msgid "Link my twitter account"
+msgstr "ربط حساب تويتر الخاص بي"
+
+msgid "The product was successfully posted to Twitter!"
+msgstr "تم نشر المنتج بنجاح على تغريد!"
+
+msgid "Some error. Try again later"
+msgstr "بعض الخطأ. حاول مرة أخرى في وقت لاحق"
